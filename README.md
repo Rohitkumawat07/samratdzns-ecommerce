@@ -3,7 +3,6 @@
 A modern and responsive ecommerce website for selling **3D renders**, **YouTube thumbnails**, **logos**, **posters**, and **gaming designs**.
 
 🔗 **Live Demo**: [shivapareek.github.io/samratdzns-ecommerce](https://shivapareek.github.io/samratdzns-ecommerce/)
-🔗 **Video Demo**: [Video Demo on Google Drive](https://drive.google.com/file/d/1bMMcQDGSWVGW9cQ9ilCOdKDJtf2s5pff/view?usp=sharing)
 
 ---
 
@@ -44,14 +43,6 @@ A modern and responsive ecommerce website for selling **3D renders**, **YouTube 
 ✅ 3D Artists  
 ✅ Gaming Content Creators  
 ✅ Freelancers offering design assets
-
----
-
-## 📬 Contact
-
-Have ideas, want to collaborate, or need help?  
-📧 Email: `pareekshiva2004@gmail.com`  
-🌐 Portfolio: [shivapareek.github.io/shivaportfolio](https://shivapareek.github.io/shivaportfolio/)
 
 ---
 
